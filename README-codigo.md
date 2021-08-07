@@ -44,3 +44,10 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
+
+
+
+
+![image](https://user-images.githubusercontent.com/69063633/128584663-4bc456be-b96c-41be-b3c6-728b0c2c9782.png)
+
+
